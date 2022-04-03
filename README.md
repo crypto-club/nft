@@ -29,7 +29,7 @@
 <br>
 
 ### Crypto?
-- **Need more information on Crypto? _Check this link out on_ [CRYPTO](https://crypto-club.github.io/)** 
+- **Need more information on Crypto? _Check this link out on_ :arrow_right:[CRYPTO](https://crypto-club.github.io/)** 
 <br>
 
 ### Support or Contact
