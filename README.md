@@ -33,4 +33,4 @@
 </p>
 
 ### Support or Contact
-- **Having trouble, Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.**
+- **Having trouble, Need a consulation? [Contact Support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.**
