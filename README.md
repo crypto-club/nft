@@ -30,7 +30,7 @@
 
 ### Crypto?
 - **Need more information on Crypto? _Check this link out on_ [CRYPTO](https://crypto-club.github.io/)** 
-<br>
+</br>
 
 ### Support or Contact
 - Having trouble, Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
