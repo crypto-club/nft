@@ -29,8 +29,8 @@
 <br>
 
 ### Crypto?
-Need more information on Crypto? Check this link out [CRYPTO](https://crypto-club.github.io/) 
+-Need more information on Crypto? *Check this link out [CRYPTO](https://crypto-club.github.io/)* 
 <br>
 
 ### Support or Contact
-Having trouble? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
+-Having trouble, Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
