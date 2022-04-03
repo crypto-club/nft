@@ -25,12 +25,12 @@
 - Email Header should read NFT and leave your contact info within the body of the email
 ```
 ### Still dont' believe in the NFT Hype!!!
-Still dont believe in NFTs? Check this article out on NFTs [NFT Article](https://www.cnet.com/culture/internet/bored-ape-yacht-club-nfts-everything-you-need-to-know/)
-
+- Check this article out on NFTs [NFT Article](https://www.cnet.com/culture/internet/bored-ape-yacht-club-nfts-everything-you-need-to-know/)
+<br>
 
 ### Crypto?
 Need more information on Crypto? Check this link out [CRYPTO](https://crypto-club.github.io/) 
-
+<br>
 
 ### Support or Contact
 Having trouble? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
