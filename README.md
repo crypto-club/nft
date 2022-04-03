@@ -2,7 +2,7 @@
 <h2 align="center">YOUR NFT JOURNEY STARTS HERE</h2>
 
 ```markdown
-# **NFTs?!**
+# NFTs?!
 
 # What are they?
 - NFT is a Non-Fungible Token. NFT data units may be associated with digital files 
