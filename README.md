@@ -13,7 +13,16 @@
   be difficult to hold depending where you live, so why not have a digital version?
 
 # Future Proof?
-- YES! Do you honestly think paper money will exist in the future? Especailly when we live in space?
+- YES! Do you honestly think paper money will exist in the future? Especailly when 
+  we live in outter space!
+
+# Do I only get paid once for my NFT?
+- NO! You will recieve NFT royalties for each time your NFT is sold.
+  Imagine reciving 10% each time your NFT sells!!
+
+# Does it sound like a great idea to you?! Ready to Start Your NFT Journey with us!
+- Contact Support Below
+- Email Header should read NFT and leave your contact info within the body of the email
 ```
 ### Crypto?
 Need more information on Crypto? Check this link out [CRYPTO](https://crypto-club.github.io/) 
