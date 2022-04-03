@@ -8,10 +8,10 @@
 - NFT is a Non-Fungible Token. NFT data units may be associated with digital files such as photos, videos, and audio. 
 
 # Does it make sense?
-- NFT is part of the future. When we start living on other planets, a simple photo might be difficult to hold depending where you live in the future, so why not have a digital version?
+- NFT is part of the future. When we start living on other planets, a simple photo might be difficult to hold depending where you live, so why not have a digital version?
 
-# Future Proof
-- YES! Do you honestly think paper money will exist in the future? Especailly when we live in space?
+# Future Proof?
+- **YES! Do you honestly think paper money will exist in the future? Especailly when we live in space?**
 ```
 ### Crypto?
 Need more information on Crypto? Check this link out [CRYPTO](https://crypto-club.github.io/) 
