@@ -14,7 +14,7 @@
 
 # Future Proof?
 - YES! Do you honestly think paper money will exist in the future? Especailly when 
-  we live in outter space! :rocket:
+  we live in outter space! 
 
 # Do I only get paid once for my NFT?
 - NO! You will recieve NFT royalties for each time your NFT is sold.
