@@ -24,7 +24,7 @@
 - Contact Support Below
 - Email Header should read NFT and leave your contact info within the body of the email
 ```
-### NFT?
+### Still dont' believe in NFTs!
 Still dont believe in NFTs? Check this article out on NFTs [NFT Article](https://www.cnet.com/culture/internet/bored-ape-yacht-club-nfts-everything-you-need-to-know/)
 
 ### Crypto?
