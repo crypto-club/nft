@@ -19,4 +19,4 @@
 Need more information on Crypto? Check this link out [CRYPTO](https://crypto-club.github.io/) 
 
 ### Support or Contact
-Having trouble with Pages? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
+Having trouble? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
