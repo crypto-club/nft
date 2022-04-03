@@ -18,17 +18,19 @@
 
 # Do I only get paid once for my NFT?
 - NO! You will recieve NFT royalties for each time your NFT is sold.
-  Imagine reciving 10% each time your NFT sells!!
+- Imagine reciving 10% each time your NFT sells!!
 
 # Does it sound like a great idea to you?! Ready to Start Your NFT Journey with us!
 - Contact Support Below
 - Email Header should read NFT and leave your contact info within the body of the email
 ```
-### Still dont' believe in NFTs!
+### Still dont' believe in the NFT Hype!!!
 Still dont believe in NFTs? Check this article out on NFTs [NFT Article](https://www.cnet.com/culture/internet/bored-ape-yacht-club-nfts-everything-you-need-to-know/)
+
 
 ### Crypto?
 Need more information on Crypto? Check this link out [CRYPTO](https://crypto-club.github.io/) 
+
 
 ### Support or Contact
 Having trouble? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
