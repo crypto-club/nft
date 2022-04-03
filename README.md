@@ -26,11 +26,11 @@
 ```
 ### Still dont' believe in the NFT Hype!!!
 - Check this article out on NFTs [NFT Article](https://www.cnet.com/culture/internet/bored-ape-yacht-club-nfts-everything-you-need-to-know/)
-<br>
+<p>
 
 ### Crypto?
 - **Need more information on Crypto? _Check this link out on_ [CRYPTO](https://crypto-club.github.io/)** 
-</br>
+</p>
 
 ### Support or Contact
-- Having trouble, Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
+- **Having trouble, Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.**
